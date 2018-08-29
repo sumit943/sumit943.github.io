@@ -10,11 +10,11 @@ header{
 }
 
 .search{
-	top: fixed;
-	  flex
-	height: 600px;
-	  padding: 10px;
-	box-sizing: border-box;
+	 top: fixed;
+	 Display :flex;
+	 height:600px;
+	 padding: 10px;
+	 box-sizing: border-box;
 }
 .user-details{
 	position: absolute;

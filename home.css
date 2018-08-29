@@ -50,7 +50,7 @@ h3 {
 .bg-video{
 	position: absolute;
     top: 0;
-    left: 100px;
+    left: 0;
     height: 80vh;
     width: 100%;
     z-index: -1;

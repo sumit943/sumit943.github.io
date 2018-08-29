@@ -52,7 +52,7 @@ h3 {
     top: 0;
     left: 0;
     height: 80vh;
-    width: 100%;
+    width: 200%;
     z-index: -1;
     opacity: .20;
     overflow: hidden;
